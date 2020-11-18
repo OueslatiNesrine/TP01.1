@@ -1,0 +1,2 @@
+rootProject.name='TP1_Prog_Mobile'
+include ':app'
